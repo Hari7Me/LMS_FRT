@@ -41,7 +41,7 @@ header("location:index.php?page=home");
 	#login-left{
 		position: absolute;
 		left:0;
-		width:60%;
+		width:100%;
 		height: calc(100%);
 		background:#59b6ec61;
 		display: flex;
@@ -62,6 +62,15 @@ header("location:index.php?page=home");
     border-radius: 50% 50%;
     color: #000000b3;
     z-index: 10;
+}
+div#login-right::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: calc(100%);
+    height: calc(100%);
+    background: transparent;
 }
 
 
