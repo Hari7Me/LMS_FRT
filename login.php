@@ -70,6 +70,7 @@ div#login-right::before {
     left: 0;
     width: calc(100%);
     height: calc(100%);
+    background: #0000ffff;
 }
 
 </style>
