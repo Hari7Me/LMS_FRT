@@ -34,7 +34,7 @@ header("location:index.php?page=home");
 		right:0;
 		width:40%;
 		height: calc(100%);
-		background:white;
+		background:transparent;
 		display: flex;
 		align-items: center;
 	}
@@ -70,7 +70,7 @@ div#login-right::before {
     left: 0;
     width: calc(100%);
     height: calc(100%);
-    
+    background: url(assets/img/1.png);
 }
 
 </style>
