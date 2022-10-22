@@ -70,7 +70,7 @@ div#login-right::before {
     left: 0;
     width: calc(100%);
     height: calc(100%);
-    background: transparent;
+    background: url(assets/img/1.png);
 }
 
 </style>
