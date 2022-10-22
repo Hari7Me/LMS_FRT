@@ -80,7 +80,7 @@ div#login-right::before {
 
   <main id="main" class=" bg-info">
   	<h1>Loan Management System</h1>
-  		<div id="login-left">
+  		<div id="login-centre">
   		</div>
 
   		<div id="login-right">
