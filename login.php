@@ -46,7 +46,7 @@ header("location:index.php?page=home");
 		background:#59b6ec61;
 		display: flex;
 		align-items: center;
-		background: url(assets/img/loan.png);
+		background: transparent;url(assets/img/loan.png)
 	    background-repeat: no-repeat;
 	    background-size: cover;
 	}
@@ -64,13 +64,13 @@ header("location:index.php?page=home");
     z-index: 10;
 }
 div#login-right::before {
-   content: "";
-   position: absolute;
-   top: 0;
-   left: 0;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
     width: calc(100%);
-   height: calc(100%);
-   background: transparent;
+    height: calc(100%);
+    background: transparent;
 }
 
 </style>
