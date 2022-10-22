@@ -46,7 +46,7 @@ header("location:index.php?page=home");
 		background:#59b6ec61;
 		display: flex;
 		align-items: center;
-		background: transparent;url(assets/img/loan.png)
+		background: url(assets/img/loan.png);
 	    background-repeat: no-repeat;
 	    background-size: cover;
 	}
