@@ -63,15 +63,15 @@ header("location:index.php?page=home");
     color: #000000b3;
     z-index: 10;
 }
-div#login-right::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: calc(100%);
-    height: calc(100%);
-    background: #0000ffff;
-}
+//div#login-right::before {
+//    content: "";
+//   position: absolute;
+//    top: 0;
+  //  left: 0;
+    //width: calc(100%);
+   // height: calc(100%);
+   // background: #0000ffff;
+//}
 
 </style>
 
