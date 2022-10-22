@@ -79,8 +79,8 @@ div#login-right::before {
 
 
   <main id="main" class=" bg-info">
-  	<h1>Loan Management System</h1>
-  		<div id="login-centre">
+  	<h1>Web Based Loan Management System</h1>
+  		<div id="login-left">
   		</div>
 
   		<div id="login-right">
