@@ -52,7 +52,8 @@ header("location:index.php?page=home");
 	}
 	#login-right .card{
 		margin: auto;
-		z-index: 1
+		z-index: 1;
+		background:#59b6ec61
 	}
 	.logo {
     margin: auto;
@@ -60,7 +61,7 @@ header("location:index.php?page=home");
     background: white;
     padding: .5em 0.7em;
     border-radius: 50% 50%;
-    color: #12121212;
+    color: #000000b3;
     z-index: 10;
 }
 div#login-right::before {
