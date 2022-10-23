@@ -53,7 +53,7 @@ header("location:index.php?page=home");
 	#login-right .card{
 		margin: auto;
 		z-index: 1;
-		background:#59b6ec61
+		background:#59b6ec61;
 	}
 	.logo {
     margin: auto;
