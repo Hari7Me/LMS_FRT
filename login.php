@@ -60,7 +60,7 @@ header("location:index.php?page=home");
     background: white;
     padding: .5em 0.7em;
     border-radius: 50% 50%;
-    color: #000000b3;
+    color: #12121212;
     z-index: 10;
 }
 div#login-right::before {
